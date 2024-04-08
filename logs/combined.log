@@ -1,0 +1,4 @@
+{"level":"info","message":"dividing two numbers","service":"calculator microservice"}
+{"level":"info","message":"adding two number","service":"calculator microservice"}
+{"level":"info","message":"subtracting two numbers","service":"calculator microservice"}
+{"level":"info","message":"multiplying two numbers","service":"calculator microservice"}
