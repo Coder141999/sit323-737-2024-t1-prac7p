@@ -1,0 +1,1 @@
+I've created addition, subtraction, multiplication, and division APIs using Winston for logging. Additionally, I've introduced a safety feature to the division API to detect mistakes made while dividing by zero. This guarantees precise computation handling and smooth operation of our program. 
